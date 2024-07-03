@@ -6,6 +6,4 @@ To download the necessary files, click on "Code" then "Download ZIP"
 
 Then unzip the downloaded ZIP file and copy the unzipped content to a blank SD card.
 
-<img width="531" alt="image" src="https://github.com/RomeoLB/gapless-video-image-playback-single-decode/assets/136584791/1623f600-3610-4d08-8ddf-4db8ca57e27c">
-
 This package uses a standalone autorun.brs file to load a HTML widget that loops video and images that are within the HtmlSite folder. This is a working example of how one can play a video then an image without any black frames during the transitions between video content and images and vice versa.
